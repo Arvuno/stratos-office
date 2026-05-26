@@ -143,3 +143,6 @@ Toggle **Offline Mode** in Settings to disable all web features entirely and run
 ## License
 
 Private project. All rights reserved.
+
+## Contributing
+PRs welcome!
