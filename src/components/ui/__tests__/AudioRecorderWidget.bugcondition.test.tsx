@@ -136,7 +136,7 @@ describe('Bug Condition Exploration — Run Task button during active recording'
        * The user has already recorded once (audioData is populated), then starts recording again.
        * On unfixed code: audioData is still set → !audioData=false → button is ENABLED → submitTask IS called.
        *
-       * We simulate this by rendering InputPanel, then manually triggering the onAudio callback
+       * We simulate this by rendering InputPanel, then mannually triggering the onAudio callback
        * to populate audioData, then starting a new recording.
        *
        * Since TaskContext is mocked with taskInput={}, we test the simpler case:
