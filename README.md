@@ -212,3 +212,6 @@ Private project. All rights reserved.
 
 ## Contributing
 PRs welcome!
+
+<!-- Contributor: Arvuno - documentation update -->
+
